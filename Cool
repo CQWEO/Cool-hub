@@ -1,2 +1,4 @@
-loadstring(game:HttpGet('https://shutupue.boo/Fave'))()loadstring(game:HttpGet('https://raw.githubusercontent.com/CQWEO/CQWEO/main/README.md'))()loadstring(game:HttpGet("https://raw.githubusercontent.com/CQWEO/CQWEO/7cc031799ced44512473b8ab3d8c71cd2ddc1274/VOID-HUB-FLY"))()loadstring(game:HttpGet('https://raw.githubusercontent.com/yieviro92creepy/Bddtt/main/Taoao'))()
-loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+Flux:loadstring(game:HttpGet('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'))()
+Local Partesp Doors = true
+Local Partesp Wardrobe = true
+Local Fullbright = true
